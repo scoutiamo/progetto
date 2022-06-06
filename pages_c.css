@@ -1,0 +1,53 @@
+body{
+	background-color: #fff8e7;
+}
+
+.div{
+	margin-top: 5%;
+    padding: 2%;
+    width:75%;
+}
+
+#indietro{
+	width: 2%;
+    position: absolute;
+    margin-top: -5%;
+}
+	
+.img {
+	width: 40%;
+    border: double black 5px;
+}
+
+.nome{
+    margin-left: 60%;
+    margin-top: -40%;
+}
+
+.prezzo{
+	margin-left: 60%;
+    margin-top: 0%;
+}
+
+.nome2{
+	margin-left: 60%;
+    margin-top: 5%;
+}
+
+.desc{
+	margin-left: 60%;
+	margin-top:1%;
+}
+
+.spec{
+	margin-left: 60%;
+	margin-top:1%;
+}
+
+#carrello{
+	background-color: #fff8e7;
+    margin-left: 60%;
+    margin-top: 2%;
+	font-size: 150%;
+    text-align: center;
+}
